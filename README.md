@@ -9,4 +9,4 @@
 ## Usage
 
 1. Add the bucket with `scoop bucket add zed https://github.com/sbolch/ScoopZed.git`
-2. Install Zed with `scoop install zed`
+2. Install Zed with `scoop install zed/zed`
